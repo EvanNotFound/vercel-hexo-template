@@ -1,5 +1,3 @@
-![Hexo Logo](https://opengraph.githubassets.com/9c49f5d8e9897c75ed297617e02deaba381746aa8ab21fcb329c1d2daedf33b3/hexojs/hexo)
-
 # Hexo Example
 
 This directory is a brief example of a [Hexo](https://hexo.io/) site that can be deployed to Vercel with zero configuration. 
@@ -12,7 +10,7 @@ Deploy your own Hexo project with Vercel.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/EvanNotFound/vercel-hexo-template/tree/main&template=hexo)
 
-_Live Example: https://hexo-template.vercel.app_
+_Live Example: https://hexo-template.ohevan.com_
 
 ### How We Created This Example
 
