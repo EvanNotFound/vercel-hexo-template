@@ -1,8 +1,10 @@
-![Hexo Logo](https://github.com/vercel/vercel/blob/main/packages/frameworks/logos/hexo.svg)
+![Hexo Logo](https://opengraph.githubassets.com/9c49f5d8e9897c75ed297617e02deaba381746aa8ab21fcb329c1d2daedf33b3/hexojs/hexo)
 
 # Hexo Example
 
-This directory is a brief example of a [Hexo](https://hexo.io/) site that can be deployed to Vercel with zero configuration.
+This directory is a brief example of a [Hexo](https://hexo.io/) site that can be deployed to Vercel with zero configuration. 
+
+This version is created by [EvanNotFound](https://github.com/EvanNotFound/vercel-hexo-template), which uses the latest hexo version v6.3.0 and fixed some bugs compared to the official template.
 
 ## Deploy Your Own
 
